@@ -3,7 +3,7 @@ Public domain, single file libraries for C and C++.
 
 Library                                         | Description
 ----------------------------------------------- | -----------
-[number_to_words](bl_number_to-words.h)                            | Convert numbers to words.
+[number_to_words](bl_number_to_words.h)                            | Convert numbers to words.
 
 
 # Other Libraries
